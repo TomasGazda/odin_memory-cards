@@ -1,0 +1,11 @@
+.board{
+    height: 100%;
+    width: 80%;
+    display: grid;
+    gap: 20px;
+    grid-auto-rows: minmax(200px,30%);
+    grid-template-columns: repeat(auto-fit, minmax(75px, 150px));
+    justify-content: center;
+    align-content: center;
+
+}
