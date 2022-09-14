@@ -67,7 +67,8 @@ function Board (props){
 
 }
 
-/* function changeOrder(array){
+function changeOrder(array){
+    
     for (var i = array.length - 1; i > 0; i--) {
         var j = Math.floor(Math.random() * (i + 1));
         var temp = array[i];
@@ -75,6 +76,6 @@ function Board (props){
         array[j] = temp;
     }
  
-}*/
+}
 
 export {Board}; 
