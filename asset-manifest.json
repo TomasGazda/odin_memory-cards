@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/TomasGazda/odin_memory-cards/static/css/main.b54458d1.css",
+    "main.js": "/TomasGazda/odin_memory-cards/static/js/main.e1a64e47.js",
+    "static/js/787.ffcc4c12.chunk.js": "/TomasGazda/odin_memory-cards/static/js/787.ffcc4c12.chunk.js",
+    "index.html": "/TomasGazda/odin_memory-cards/index.html",
+    "main.b54458d1.css.map": "/TomasGazda/odin_memory-cards/static/css/main.b54458d1.css.map",
+    "main.e1a64e47.js.map": "/TomasGazda/odin_memory-cards/static/js/main.e1a64e47.js.map",
+    "787.ffcc4c12.chunk.js.map": "/TomasGazda/odin_memory-cards/static/js/787.ffcc4c12.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b54458d1.css",
+    "static/js/main.e1a64e47.js"
+  ]
+}
