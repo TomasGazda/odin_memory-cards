@@ -152,7 +152,7 @@ useEffect(() =>{
           alert('New High Score! Congrats!');
         }
         if(score > 0){
-          alert('New Game!');
+          alert('New Game! Your score was '+score);
         }
         setScore(0);
         setEnd(false);
